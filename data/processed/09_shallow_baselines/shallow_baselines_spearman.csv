@@ -1,0 +1,6 @@
+baseline,rho_MD_F1,p_MD_F1,rho_KO,p_KO
+mean_sentence_length,-0.742,0.0037,-0.815,0.00068
+sttr_50k,-0.61,0.02688,-0.501,0.08089
+function_word_ratio,0.736,0.00411,0.614,0.02549
+char_entropy_bits,0.495,0.08582,0.452,0.12118
+salamandra_ppl,0.83,0.00045,0.887,5e-05

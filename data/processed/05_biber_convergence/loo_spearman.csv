@@ -1,0 +1,14 @@
+corpus_removed,rho_loo,delta_rho,p_loo
+PRESEEA_alto,0.8881,0.042,0.0001
+Jable,0.8182,-0.028,0.0011
+PARCAN_discursos,0.8182,-0.028,0.0011
+PARCAN_declaraciones,0.8252,-0.021,0.001
+Bot_individual,0.8601,0.014,0.0003
+Carto_grupo,0.8322,-0.014,0.0008
+WhCan,0.8322,-0.014,0.0008
+Bot_pareja,0.8601,0.014,0.0003
+AMERESCO,0.8392,-0.007,0.0006
+PRESEEA_medio,0.8392,-0.007,0.0006
+Carto_expo,0.8392,-0.007,0.0006
+COSER,0.8462,0.0,0.0005
+PRESEEA_bajo,0.8462,0.0,0.0005
